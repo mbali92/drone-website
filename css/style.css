@@ -33,7 +33,7 @@
 }
 
 header{
-    background-image: url('/Images/hero.jpg');
+    background-image: url('../Images/hero.jpg');
     background-position: center right;
     background-size: cover;
     background-repeat: no-repeat;
